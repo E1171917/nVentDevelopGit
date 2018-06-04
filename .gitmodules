@@ -1,0 +1,3 @@
+[submodule "r2i.commons"]
+	path = r2i.commons
+	url = https://r2i-commons:!r2i!c0mm0ns@bitbucket.org/r2integrated_adobe/r2i-commons.git
